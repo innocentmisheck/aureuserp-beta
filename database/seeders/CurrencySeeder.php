@@ -40,6 +40,7 @@ class CurrencySeeder extends Seeder
             'IDR' => 'Indonesian Rupiah',
             'PHP' => 'Philippine Peso',
             'VND' => 'Vietnamese Dong',
+            'MWK' => 'Malawi Kwacha',
             'PLN' => 'Polish Zloty',
             'CZK' => 'Czech Koruna',
             'HUF' => 'Hungarian Forint',
